@@ -1,1 +1,1 @@
-# Hero-page
+# Hero-page.
